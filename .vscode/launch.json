@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/darshanprajapati/Desktop/college info/1st sem/c++ with dsa",
+      "program": "/Users/darshanprajapati/Desktop/college info/1st sem/c++ with dsa/build/Debug/outDebug"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+const int* a=new int(2); //CONST data ,NON-CONST pointer.
