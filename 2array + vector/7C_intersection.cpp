@@ -13,7 +13,7 @@ int main(){
         int element = arr[i];
         //for every element,run loop on brr
         for(int j=0;j<brr.size();j++){
-            if(element ==brr[j]){
+            if(element == brr[j]){
                 ans.push_back(element);
             }
         }

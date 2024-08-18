@@ -17,5 +17,8 @@ int main(){
     for(int i=0;i<n;i++){
         cout << 2*arr[i] << " ";
     }
+    //we can also use it in c language
+    
+
     return 0;
 }

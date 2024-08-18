@@ -32,7 +32,6 @@ void print(Node* &head) {
         }
 }
 
-
 int getLength(Node* head) {
         int len = 0;
         Node* temp = head;

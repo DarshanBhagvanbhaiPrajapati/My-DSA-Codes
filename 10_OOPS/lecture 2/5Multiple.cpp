@@ -16,7 +16,6 @@ class C:public A,public B{
 };
 int main(){
     C Obj;
-    cout << Obj.physics << " " <<Obj.chemistry << " " <<Obj.Maths << endl;
-    
+    cout << Obj.physics << " " <<Obj.chemistry << " " <<Obj.Maths << endl;  
     return 0;
 }

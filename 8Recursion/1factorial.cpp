@@ -17,7 +17,7 @@ int factorial(int n){
 }
 int main(){
     int n;
-    cout << "entre the value of n" << endl;
+    cout << "Entre the value of n" << endl;
     cin >> n ;
 
     int ans = factorial(n);
